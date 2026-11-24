@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VzXhnX2D+00=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\repository\\blazorGame\\blazorgame\\blazorgame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.3\\microsoft.aspnetcore.app.internal.assets.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
